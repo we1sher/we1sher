@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @we1sher
+- 🌱 I’m currently learning deep learning / CV and NLP
+- 📫 my email address is asd1224241499@gmail.com 
